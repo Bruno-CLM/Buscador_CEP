@@ -91,10 +91,8 @@
         font-size: 0.8rem;
     }
     .containerInput {
-        padding: 0.5rem;
-    }
-    .containerInput input {
         width: 80%;
+        padding: 0.5rem;
     }
     .main{
         width: 80%;
