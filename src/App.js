@@ -11,7 +11,7 @@ function App() {
   async function handleSearch() {
     //https://viacep.com.br/ws/06414-000/json/
 
-    if (input == '') {
+    if (input === '') {
       alert("Preencha o campo CEP");
       return;
     }
