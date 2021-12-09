@@ -94,7 +94,8 @@
         font-size: 0.8rem;
     }
     .containerInput {
-        margin: 20px;
+        margin: 0;
+        width: 100%;
         padding: 0.5rem;
     }
     .main{
