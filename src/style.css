@@ -81,7 +81,7 @@
 }
 
 @media (max-width: 620px) {
-    body{
+    .container{
         overflow: hidden;
     }
     .title{
@@ -95,8 +95,11 @@
     }
     .containerInput {
         margin: 0;
-        width: 90%;
+        width: 100%;
         padding: 0.5rem;
+    }
+    .containerInput input{
+        width: 80%;
     }
     .main{
         width: 80%;
