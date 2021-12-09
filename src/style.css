@@ -93,6 +93,9 @@
     .containerInput {
         padding: 0.5rem;
     }
+    .containerInput input {
+        width: 80%;
+    }
     .main{
         width: 80%;
         min-height: 250px;
